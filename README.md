@@ -10,11 +10,17 @@ C++
 - It includes methods to get time input, convert it into total seconds, and display both the original and converted time.
 
 ## Sample Output
+
 Enter time:
+
 Hours? 1
+
 Minutes? 30
+
 Seconds? 15
+
 The time is = 01:30:15
+
 Time in total seconds: 5415
 
 ## How to Run
@@ -23,7 +29,9 @@ Time in total seconds: 5415
 ```bash
 g++ time_converter.cpp -o time
 ./time
+
 What I Learned
+
 Creating and using C++ classes
 
 Separating logic into class methods
